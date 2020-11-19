@@ -1,2 +1,6 @@
-language: java
-jdk: openjdk9
+language: php
+php:
+  - "7.0"
+
+script:
+  - php index.php
