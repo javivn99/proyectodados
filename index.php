@@ -28,7 +28,7 @@ if ($email=="juan@gmail.com" && $pass="juan"){
 <form action="menu/menu.php" method="post" name="form">
 
   <div class="container">
-    <label for="uname"><b>Email</b></label>
+    <label for="uname"><b>Correoaso</b></label>
     <input type="text" placeholder="Introduce tu email" name="email" required>
 
     <label for="psw"><b>Password</b></label>
