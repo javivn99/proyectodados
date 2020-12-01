@@ -1,5 +1,10 @@
 {
-    "require": {
-        "phpunit/php-timer": "^5.0"
-    }
+    "name": "daw2/proyectodados",
+    "authors": [
+        {
+            "name": "javivn99",
+            "email": "javiyosoyyo@gmail.com"
+        }
+    ],
+    "require": {}
 }
