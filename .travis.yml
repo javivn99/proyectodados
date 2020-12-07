@@ -11,6 +11,6 @@ deploy:
 
   app: proyectodados
 
-  api_key: c32af78e-2395-422d-8455-29ba59090f68
+  api_key:
 
     secure: $HEROKU_API_KEY
